@@ -2,7 +2,7 @@
 
 public class Driver {
 
-	public void featureb ()
+	private void featureb ()
 	{
 		System.out.println("its me B");
 	}
